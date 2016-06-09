@@ -1,5 +1,5 @@
 <?php
-require ("../src/Example.php");
+require APPLICATION_PATH . '/Example.php';
 
 class ExampleTest extends PHPUnit_Framework_TestCase{
 	public function testSomething(){

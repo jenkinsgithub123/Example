@@ -1,7 +1,7 @@
 <?php
 class Example{
 	public function foo(){
-		return 'sa';
+		return 'sasa';
 	}
 }
 
